@@ -1,0 +1,2 @@
+# chefnode
+node1
